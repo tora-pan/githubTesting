@@ -1,0 +1,5 @@
+This will be the first file to push to github. (thanks to Kurichan)
+
+git remote add (NAME OF UPSTREAM) https://github.com/tora-pan/githubTesting.git
+git branch -M main
+git push -u origin main
